@@ -18,7 +18,7 @@ _Soy una persona siempre dispuesta aprender cosas nuevas relacionadas a la progr
 
 ___________________________________________________________________________________________________________________________________________
 
-- 🌱 Actualmente estoy aprendiendo: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+- 🌱 Actualmente estoy aprendiendo: ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 - 📫 Cómo contactarme: ![](https://img.shields.io/badge/mauroromo1999%40outlook.com-blue?style=for-the-badge)
 
