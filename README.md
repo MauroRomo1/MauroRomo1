@@ -23,7 +23,7 @@ _Soy una persona siempre dispuesta aprender cosas nuevas relacionadas a la progr
 
 ___________________________________________________________________________________________________________________________________________
 
-- 🌱 Actualmente estoy aprendiendo: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- 🌱 Actualmente estoy aprendiendo:
 
 - 📫 Cómo contactarme: ![](https://img.shields.io/badge/mauroromo1999%40outlook.com-blue?style=for-the-badge)
 
