@@ -1,8 +1,8 @@
 # Hola 👋, Mi nombre es Mauro pero me dicen Dharez
-### Soy estudiante de Desarrollo web, Full stack 💻
-![Soy estudiante de Desarrollo web, Full stack 💻](https://coding.blog/img/update-social-banner.png)
+### Soy Desarrollador web, Full stack 💻
+![Soy estudiante de Desarrollo web, Full stack 💻](https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled.jpg)
 
-_Soy una persona siempre dispuesta aprender cosas nuevas relacionadas a la programación_
+_Siempre dispuesta aprender cosas nuevas relacionadas a la programación_
 
 
 ### **_Tecnologías:_**
