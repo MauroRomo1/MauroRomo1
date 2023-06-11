@@ -1,5 +1,5 @@
 # Hola 👋, Mi nombre es Mauro pero me dicen Dharez
-### Soy Desarrollador web, Full stack 💻
+### Soy estudiante de desarrollo web Full stack 💻
 ![Soy estudiante de Desarrollo web, Full stack 💻](https://miro.medium.com/v2/resize:fit:1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 
 _Siempre dispuesta aprender cosas nuevas relacionadas a la programación_
