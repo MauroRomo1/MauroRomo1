@@ -16,8 +16,9 @@
 
 ___________________________________________________________________________________________________________________________________________
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroRomo1&show_icons=true&theme=tokyonight) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MauroRomo1&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroRomo1&show_icons=true&theme=tokyonight)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MauroRomo1&show_icons=true&theme=tokyonight)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroRomo1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)    
 
